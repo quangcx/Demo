@@ -28,7 +28,7 @@ const app = (() => {
             }
             heart.onclick = (e) => {
                 setTimeout(() => {
-                    alert('anh yeu em');
+                    alert('anh yeu em nhieu lam');
                 }, 2000);
             }
             container.style.display = 'none';
